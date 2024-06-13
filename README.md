@@ -1,4 +1,4 @@
-# PC-webshop
+# Bid4Tech
 
 ## Project Description
 
@@ -19,7 +19,7 @@ Our project's goal is to reach a wide range of customers, partly satisfying the 
 ## installation
 
 ```
- $ git clone https://github.com/SzigetvariMark/pcweb.git
+ $ git clone https://github.com/mate10106/Bid4Tech.git
 ```
 
 ## Setup
@@ -34,7 +34,7 @@ Install npm locally to run the project.
 Our application requires individual accounts and associated links to be placed in the .env.example file.
 
 ```
- $ stripe account
- $ mongodb account
+ $ Stripe account
+ $ Mongodb account
  $ Google Cloud account
 ```
