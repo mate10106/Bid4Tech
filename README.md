@@ -34,7 +34,7 @@ Install npm locally to run the project.
 Our application requires individual accounts and associated links to be placed in the .env.example file.
 
 ```
- $ stripe fiók
- $ mongodb fiók
- $ Google Cloud fiók
+ $ stripe account
+ $ mongodb account
+ $ Google Cloud account
 ```
